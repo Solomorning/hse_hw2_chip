@@ -1,6 +1,6 @@
 # hse_hw2_chip
 ## Целевой объект
-Клеточная линия: GM23248
+Клеточная линия: GM23248 
 Гистоновая метка: H3K9me3
 ## Google colab
 https://colab.research.google.com/drive/1PnlmsS7in_Cbz_nc2z8aBmzUe7c3PssB?usp=sharing
