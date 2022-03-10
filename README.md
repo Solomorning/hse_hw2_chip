@@ -2,7 +2,6 @@
 ## Google colab
 https://colab.research.google.com/drive/1PnlmsS7in_Cbz_nc2z8aBmzUe7c3PssB?usp=sharing
 ## Выравнивание на 7 хромосому
-Данные чтения выравнивались на первую хромосому.
 ||ENCFF422LCV|ENCFF118JBS|ENCFF127SEC|
 |----|----|----|----|
 |Ридов|28962089|29882617||
